@@ -1,0 +1,16 @@
+
+Identifier:
+Summary:
+Description:
+	Detailed info on the defect
+	Actual result
+	Expected result
+Steps to reproduce:
+Reproducibility:
+Severity:
+Priority:
+Symptom:
+Workaround:
+Comments:
+Attachments:
+
